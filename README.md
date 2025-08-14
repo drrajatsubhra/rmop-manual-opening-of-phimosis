@@ -13,4 +13,4 @@ Purpose (the “soul” of this repo): safe education + ethical sharing to serve
 
 > Educational use only. No patient-identifiable info in this repo.
 
-Next steps: add LICENSE, CONSENT_TEMPLATE.md, and docs/ (protocol, ethics).
+

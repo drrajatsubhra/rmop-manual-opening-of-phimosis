@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Rajatsubhra's Manual Opening of Phimosis (RMOP)"
+authors:
+  - family-names: "Mukhopadhyay"
+    given-names: "Rajatsubhra"
+    orcid: "https://orcid.org/0000-0002-1870-6785"
+affiliation: "Child Health Care Arambag & Sri Yoga Center Trust - Kunarpur, West Bengal, India"
+date-released: 2025-08-14
+version: "1.0.0"
+doi: "10.13140/RG.2.2.29145.70244" # ResearchGate DOI বা Zenodo DOI দিলে ভালো হবে
+url: "https://github.com/drrajatsubhra/rmop-manual-opening-of-phimosis"
+abstract: |
+  RMOP (Rajatsubhra’s Manual Opening of Phimosis) is a non-surgical, 
+  child-friendly clinical technique for treating phimosis without circumcision. 
+  Developed by Dr. Rajatsubhra Mukhopadhyay, RMOP focuses on gentle manual 
+  retraction under sterile conditions, supported by proper lubrication and 
+  post-procedure hygiene. The repository includes clinical protocol, ethics 
+  guidelines, consent template, FAQ, and references.
+keywords:
+  - RMOP
+  - Rajatsubhra's Manual Opening of Phimosis
+  - Phimosis treatment
+  - Non-surgical method
+  - Pediatric urology
+  - Clinical innovation
+license: "MIT"

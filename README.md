@@ -15,7 +15,7 @@ A conservative, non-surgical approach for selected pediatric phimosis cases.
 
 ---
 
-## 🎥 Training Videos
+## 🎥 Explanatory Videos
 - [Video 1](https://youtu.be/rU1Vi-YaTDs?si=ahUhrXBuMx8cg8Nw)  
 - [Video 2](https://youtu.be/X9IWIv76QnA?si=wfgXowbmhLldjs2l)  
 

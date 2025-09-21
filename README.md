@@ -23,7 +23,16 @@ A conservative, non-surgical approach for selected pediatric phimosis cases.
 
 ## 🔗 Quick Links
 - [ResearchGate Publication](https://www.researchgate.net/publication/341056445_Rajatsubhra's_Manual_Opening_of_Phimosis_RMOP)  
-- [Amazon Book](https://www.amazon.in/Rajatsubhras-Manual-Opening-Phimosis-1/dp/1727057007)  
+- [Amazon Book](https://www.amazon.in/Rajatsubhras-Manual-Opening-Phimosis-1/dp/1727057007)
+
+- ## 📌 Official Links & Resources  
+
+**Child Health Care Arambag (CHCA)** – *the Clinical Wing of* [**Sri Yoga Center Trust – Kunarpur (SYCT)**](https://www.wikidata.org/wiki/Q135898418)  
+
+- 🌐 **Website:** [CHCA – Official Page](https://www.sridoctor.com/child-health-care.php)  
+- 🏛 **Wikidata:** [Q135493189 – CHCA](https://www.wikidata.org/wiki/Q135493189)  
+- 📑 **Zenodo Archive:** [CHCA Research Outputs](https://zenodo.org/communities/chca)  
+- 🎥 **YouTube Channel:** [CHCA – Sridoctor Official](https://youtube.com/@sridoctor5525?si=R01iBu76ln-Xz5Wp)
 
 ---
 
